@@ -178,7 +178,7 @@ Testar:
 **Integrante A:**  Davi Alves - responsável por conferir o arquivo AlunoRepository.java, verificando os métodos adicionar, listarTodos, buscarPorNome e quantidade.
 
 
-**Integrante B:** Arthur Eduardo - responsável por conferir o arquivo AlunoService.java, verificando as validações de nome, curso e semestre.
+**Integrante B:** Arthur Eduardo - responsável por conferir o arquivo AlunoService.java, verificando as validações de nome, curso e semestre. Projeto inicial testado e executado com sucesso.
 
 ## Commits obrigatórios
 
