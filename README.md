@@ -169,7 +169,7 @@ Arquivo principal: `MenuAlunos.java`
 Testar:
 
 * cadastro;
-* listagem;
+* listagem;te4m
 * busca;
 * mensagens apresentadas ao usuário.
 
@@ -182,26 +182,28 @@ Testar:
 
 ## Commits obrigatórios
 
-* Integrante A realizou pelo menos um commit próprio?
-* Integrante B realizou pelo menos um commit próprio?
-* Os commits foram enviados para o mesmo repositório?
+* Integrante A realizou pelo menos um commit próprio? Sim
+* Integrante B realizou pelo menos um commit próprio? Sim
+* Os commits foram enviados para o mesmo repositório? Sim
 
 ## Testes realizados
 
-* Cadastro de aluno:
-* Listagem:
-* Busca por nome:
-* Busca por aluno inexistente:
-* Validação de semestre:
-* Validação de campo obrigatório:
+* Cadastro de aluno: uncionou corretamente e apresentou mensagem de sucesso.
+* Listagem: Funcionou corretamente, mostrando o aluno cadastrado.
+* Busca por nome:Funcionou corretamente e apresentou os dados do aluno.
+* Busca por aluno inexistente: O sistema informou que o aluno não foi encontrado.
+* Validação de semestre: O sistema solicitou um valor entre 1 e 10 quando informado um semestre inválido.
+* Validação de campo obrigatório:  O sistema informou que o campo é obrigatório quando deixado em branco.
+
 
 ## Dificuldades encontradas
 
-Descreva uma dificuldade técnica ou de colaboração encontrada durante a atividade.
+Durante a atividade, tivemos algumas dificuldades na configuração inicial do projeto no Eclipse e na utilização dos comandos do Git pelo PowerShell. Após verificar as configurações e seguir o fluxo correto de trabalho, conseguimos executar o projeto e realizar os commits dos dois integrantes.
+ 
 
 ## Resultado final
 
-Explique o que a dupla conseguiu concluir nesta aula.
+A dupla conseguiu configurar e executar o projeto de cadastro de alunos no Eclipse, testar as principais funcionalidades do sistema e trabalhar de forma colaborativa utilizando Git e GitHub. Foram realizados os testes de cadastro, listagem, busca e validações, além dos commits individuais dos dois integrantes no mesmo repositório.
 
 ## Atenção
 
