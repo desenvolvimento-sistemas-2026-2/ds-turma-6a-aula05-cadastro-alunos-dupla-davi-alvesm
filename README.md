@@ -2,11 +2,11 @@
 
 Classroom: Classroom 50
 Assignment: aula05-cadastro-alunos-dupla
-Turma:
-Dupla:
-Integrante A:
-Integrante B:
-Data:
+Turma: ADS - Desenvolvimento de Sistemas 
+Dupla: Arthur Eduardo 
+Integrante A: Davi Alves
+Integrante B: Arthur Eduardo 
+Data: 28/08/2026
 
 ## Atenção sobre o repositório
 
@@ -175,9 +175,10 @@ Testar:
 
 ## Registro da divisão de tarefas
 
-**Integrante A:**
+**Integrante A:**  Davi Alves - responsável por conferir o arquivo AlunoRepository.java, verificando os métodos adicionar, listarTodos, buscarPorNome e quantidade.
 
-**Integrante B:**
+
+**Integrante B:** Arthur Eduardo - responsável por conferir o arquivo AlunoService.java, verificando as validações de nome, curso e semestre.
 
 ## Commits obrigatórios
 
